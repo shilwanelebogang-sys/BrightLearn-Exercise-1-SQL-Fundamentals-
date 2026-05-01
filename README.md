@@ -4,14 +4,14 @@ This exercise showcases my foundational SQL skills through a structured, hands-o
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Exercise Overview
 
 - ✔️ Developed 10 SQL queries based on business scenarios  
 - ✔️ Applied filtering, sorting, and logical operators  
 - ✔️ Practiced clean and readable SQL syntax  
 - ✔️ Validated outputs and documented results  
 
-This project reflects how SQL is used in real-world data analysis roles to support decision-making.
+This execise reflects how SQL is used in real-world data analysis roles to support decision-making.
 
 ---
 
