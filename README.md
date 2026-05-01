@@ -58,22 +58,3 @@ FROM employees
 WHERE department = 'IT'
 AND salary > 65000
 AND city = 'Johannesburg';
-
-sql-fundamentals-project/
-│
-├── dataset/
-│   └── employees.csv
-│
-├── queries/
-│   └── exercise1_queries.sql
-│
-├── screenshots/
-│   ├── q1_output.png
-│   ├── q2_output.png
-│   ├── ...
-│   └── q10_output.png
-│
-├── outputs/
-│   └── exercise1_outputs.xlsx
-│
-└── README.md
