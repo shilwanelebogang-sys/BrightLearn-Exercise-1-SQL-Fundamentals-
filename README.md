@@ -1,6 +1,6 @@
 # 📊 SQL Fundamentals Execise 
 
-This project showcases my foundational SQL skills through a structured, hands-on analysis of an employee dataset. It simulates real-world business queries and demonstrates my ability to extract, filter, and present data effectively using SQL.
+This exercise showcases my foundational SQL skills through a structured, hands-on analysis of an employee dataset. It simulates real-world business queries and demonstrates my ability to extract, filter, and present data effectively using SQL.
 
 ---
 
